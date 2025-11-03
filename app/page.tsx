@@ -74,7 +74,7 @@ export default function PresentationPage() {
                     Geografia
                   </div>
                   <h1 className="text-2xl sm:text-4xl md:text-6xl lg:text-7xl font-bold text-white leading-tight text-balance px-2">
-                    Aumento do Custo de Vida Familiar
+                    Características do Aumento do Custo de Vida
                   </h1>
                 </div>
                 <div className="h-1 w-16 sm:w-24 bg-amber-500 mx-auto animate-in zoom-in duration-500 delay-300"></div>
